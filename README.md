@@ -7,4 +7,4 @@
 
 ## Quick Start
 ```bash
-python train.py
+python main.py
