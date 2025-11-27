@@ -1,4 +1,1 @@
-## Overview
-<div align="center">
-  <img src="pic/overview.png" alt="Overview" width="636" height="460" />
-</div>
+# Robust Contrastive Graph Clustering via Reliable Augmentation and Two-Stage Self-Supervision
